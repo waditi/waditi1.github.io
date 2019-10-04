@@ -1,3 +1,5 @@
 Отчет а лабораторных работах
 студент группы ИДБ-16-07 Войтенко В.З.
 Лабораторная
+http://www.plantuml.com/plantuml/png/LP11IWCn68NNpIb-kbBm4BLUm9tB4f9WGzE9_9dYGeHQGH05j-AkDsY5WM7Q6Q_mSYD_PrpeAYyl7n-FJ5AfkLmjWqeBNzneraioGQT4TseqrMPnpN5Ls8iO8jFLt9TEZSwPu-tGJ8CW0aQsZlzMzsgmZB757brUvsVKQCQa4rsAc_2EDZ_aZRmyueWAhUGN9NY7VLvZ9zVNsGyXnO6m_Gqd-93pY2ySKA79cvd4hkTs-4I3-koVMv0drFcjnyGth16kEfMHSsyT6SycE3LnXPMF-0O0
+
