@@ -1,0 +1,60 @@
+@startuml
+skinparam actor {
+	BackgroundColor White
+	ArrowColor Black
+	BorderColor Black
+}
+autonumber
+
+actor "Сборщик/столяр" as sculptor
+
+control "Техника проектирования мебели" as technique
+
+boundary "Карандаш" as pencil
+entity "Бумага" as paper
+
+control "Чертеж" as schematics
+
+control "Дерево" as schematics
+
+
+database "Требования в элементам мебели" as dbsw
+
+entity "Дерево" as screwdriver
+entity "Циркулярная пила" as furniture_details
+actor "столяр" as expert
+database "Инструкция по сборке" as costdb
+entity "Оценка заказчика" as eval
+
+boundary "Собранная мебель" as sculpture
+
+activate technique
+sculptor -> pencil: Рисовать
+pencil -> paper: Проект
+technique -> schematics
+paper -> schematics
+activate schematics
+== Выпиливание фурнитуры ==
+
+dbsw -> sculptor: Инструкция по разработке мебели
+schematics -> pencil: Разметить посадочные отверстия
+technique -> pencil
+technique -> screwdriver
+pencil -> furniture_details: Разметка для черновых работ
+screwdriver -> furniture_details: Обработка дерева
+furniture_details -> sculpture: Внесение корректировок
+sculpture -> dbsw: Новые методы внесения корректировок
+
+== Сборка мебели ==
+sculpture -> expert: Сравнение с эскизом
+techniqu -> expert
+expert -> schematics: Анализ чертежа
+expert -> sculpture: Опытный образец мебели
+sculpture -> expert: Анализ использованных методов
+dbsw -> sculpture: Новые методы создания эскизов
+sculpture -> dbsw: Новые материалы для мебели
+costdb -> expert: Технологии создания мебели
+eval -> sculpture: Стоимостная оценка
+costdb -> expert: Сравнение цен
+sculpture -> costb: Новая мебель на рынке
+@enduml
