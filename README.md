@@ -7,27 +7,17 @@
 ![none](https://waditi.github.io/index_files/model.png)
 
 
-C моделью можно ознакомиться по [ссылке](https://bobs4462.github.io/lab1/index.htm?id=3)
-
-* Диаграмма классов 
-
-![none](https://raw.githubusercontent.com/bobs4462/bobs4462.github.io/master/lab1/%D0%B4%D0%B8%D0%B0%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B0%20%D0%BA%D0%BB%D0%B0%D1%81%D1%81%D0%BE%D0%B2.png)
-
-* Диаграмма прецендентов
-
-![none](https://raw.githubusercontent.com/bobs4462/bobs4462.github.io/master/lab1/%D0%B4%D0%B8%D0%B0%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B0%20%D0%BF%D1%80%D0%B5%D1%86%D0%B5%D0%BD%D0%B4%D0%B5%D0%BD%D1%82%D0%BE%D0%B2.png)
 
 ## Лабораторная работа №2
 Создание IDEF0-диаграммы "Создание скульптуры" в RAMUS (программное средство разработки структурно-функциональных моделей), с последующей декомпозицией
 * IDEF0-диаграмма PDC:
 
-![none](https://github.com/bobs4462/bobs4462.github.io/blob/master/lab2/A0/model.png)
+![none](https://github.com/waditi/waditi.github.io/blob/master/%D0%9E%D0%BF%D0%B5%D1%80%D0%B0%D1%86%D0%B8%D1%8F%20%D0%A1%D0%BE%D0%B1%D1%80%D0%B0%D1%82%D1%8C%20%D1%81%D1%82%D0%BE%D0%BB%20Ramus%20-%20LAB1.rsf_files/model.png?raw=true)
 
 * DFD-диаграмма шага *Создать скульптуру*:
 
-![none](https://github.com/bobs4462/bobs4462.github.io/blob/master/lab2/A2/model.png)
+![none](https://github.com/waditi/waditi.github.io/blob/master/%D0%9F%D1%80%D0%BE%D1%86%D0%B5%D1%81%D1%81%20%D0%A1%D0%BE%D0%B1%D1%80%D0%B0%D1%82%D1%8C%20%D1%81%D1%82%D0%BE%D0%BB%20Ramus%20-%20LAB1.rsf_files/model.png?raw=true)
 
-C моделью можно ознакомиться по [ссылке](https://bobs4462.github.io/lab2/A-0.html?id=3)
 
 
 ## Лабораторная работа №3
