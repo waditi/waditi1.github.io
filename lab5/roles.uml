@@ -1,0 +1,31 @@
+@startuml
+skinparam class {
+	BackgroundColor White
+	ArrowColor Black
+	BorderColor Black
+}
+class Roles as "Роли"
+class Persons as "Люди"
+class Tools as "Иструменты\nвоздействия"
+class Programmer as "Программист"
+class Designer as "ИТ директор "
+class SystemAdministrator as "Системный\nадминистратор"
+class Users as "Пользователи"
+class TemplateSystem as "Протокол\nобмена"
+class TransportLayer as "Сеть\nобмена"
+
+Roles <|-- Persons
+Roles <|-- Tools
+
+Persons <|-- Programmer 
+Persons <|-- Designer
+Persons <|-- SystemAdministrator
+Persons <|-- Users
+
+Tools <|-- TemplateSystem
+Tools <|-- TransportLayer
+
+hide members
+hide circle
+hide methods
+@enduml
