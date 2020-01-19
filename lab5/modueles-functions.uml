@@ -1,0 +1,57 @@
+@startuml
+skinparam class {
+	BackgroundColor White
+	ArrowColor Black
+	BorderColor Black
+}
+class Modules as "Модули"
+class Function as "Функции"
+class Handler as "Обработчик"
+
+class F1 as "Функция \nпроверки \nформата \nсообщения"
+class F2 as "Фукция \nсоздания \nзадачи \nнавыполнение"
+class F3 as "Функция \nраспределения \nвремени \nвыполнения \nсреди \nзадач"
+class F4 as "Функция \nсохранения \nстатистики"
+class F5 as "Функция \nвызова \nобработчика \nзадачи"
+
+
+class M1 as "Модуль \nработы с \nподключениями \nк БД"
+class M2 as "Модуль \nвызова \nхранимых \nпроцедур"
+class M3 as "Модуль \nинтерфейсов \nобработчиков"
+class M4 as "Модуль \nвремени \nвыпоонения \nпланировщика"
+class M5 as "Модуль \nочереди \nвыполения \nзадач \nпланировщика"
+
+class M6 as "Модуль \nобработки \nстатистики \nработы \nсервиса"
+class M7 as "Модуль \nобмена \nсообщениями"
+class M8 as "Модуль \nСКД"
+
+class M9 as "Модуль \nинициализации"
+class M10 as "Модуль \nавтотестирования"
+class M11 as "Модуль \nобработки \nисключений"
+
+Modules <|-- Function
+Modules <|-- Handler
+
+Function <|-- F1
+Function <|-- F2
+Function <|-- F3
+Function <|-- F4
+Function <|-- F5
+
+Handler <|-- M1
+Handler <|-- M2
+Handler <|-- M3
+Handler <|-- M4
+Handler <|-- M5
+Handler <|-- M6
+Handler <|-- M7
+Handler <|-- M8
+Handler <|-- M9
+Handler <|-- M10
+Handler <|-- M11
+
+
+hide members
+hide circle
+hide methods
+@enduml
