@@ -5,7 +5,7 @@
 Создание IDEF0-диаграммы "Создание скульптуры" в RAMUS (программное средство разработки структурно-функциональных моделей)
 * IDEF0-диаграмма в развернутом виде:
 
-![none](https://waditi.github.io/index_files/model.png)
+![none](https://waditi1.github.io/index_files/model.png)
 
 
 
@@ -13,11 +13,11 @@
 Создание IDEF0-диаграммы "Создание скульптуры" в RAMUS (программное средство разработки структурно-функциональных моделей), с последующей декомпозицией
 * IDEF0-диаграмма PDC:
 
-![none](https://github.com/waditi/waditi.github.io/blob/master/%D0%9E%D0%BF%D0%B5%D1%80%D0%B0%D1%86%D0%B8%D1%8F%20%D0%A1%D0%BE%D0%B1%D1%80%D0%B0%D1%82%D1%8C%20%D1%81%D1%82%D0%BE%D0%BB%20Ramus%20-%20LAB1.rsf_files/model.png?raw=true)
+![none](https://github.com/waditi/waditi1.github.io/blob/master/%D0%9E%D0%BF%D0%B5%D1%80%D0%B0%D1%86%D0%B8%D1%8F%20%D0%A1%D0%BE%D0%B1%D1%80%D0%B0%D1%82%D1%8C%20%D1%81%D1%82%D0%BE%D0%BB%20Ramus%20-%20LAB1.rsf_files/model.png?raw=true)
 
 * DFD-диаграмма шага *Собрать стол*:
 
-![none](https://github.com/waditi/waditi.github.io/blob/master/%D0%9F%D1%80%D0%BE%D1%86%D0%B5%D1%81%D1%81%20%D0%A1%D0%BE%D0%B1%D1%80%D0%B0%D1%82%D1%8C%20%D1%81%D1%82%D0%BE%D0%BB%20Ramus%20-%20LAB1.rsf_files/model.png?raw=true)
+![none](https://github.com/waditi/waditi1.github.io/blob/master/%D0%9F%D1%80%D0%BE%D1%86%D0%B5%D1%81%D1%81%20%D0%A1%D0%BE%D0%B1%D1%80%D0%B0%D1%82%D1%8C%20%D1%81%D1%82%D0%BE%D0%BB%20Ramus%20-%20LAB1.rsf_files/model.png?raw=true)
 
 
 
@@ -45,19 +45,19 @@
 ![](https://raw.githubusercontent.com/waditi/waditi.github.io/master/lab4/png/01_A0.png?raw=true)
 
 ## Декомпозиция процесса "Процесс обмена сообщениями между пользователями"
-![](https://github.com/waditi/waditi.github.io/blob/master/lab4/png/02_A0.png?raw=true?raw=true)
+![](https://github.com/waditi/waditi1.github.io/blob/master/lab4/png/02_A0.png?raw=true?raw=true)
 
 ## Декомпозиция процесса "Определить протокол взаимодействия сторон"
-![](https://github.com/waditi/waditi.github.io/blob/master/lab4/png/03_A1.png?raw=true)
+![](https://github.com/waditi/waditi1.github.io/blob/master/lab4/png/03_A1.png?raw=true)
 
 ## Декомпозиция процесса "Идентифицировать стороны обмена"
-![](https://github.com/waditi/waditi.github.io/blob/master/lab4/png/04_A2.png?raw=true)
+![](https://github.com/waditi/waditi1.github.io/blob/master/lab4/png/04_A2.png?raw=true)
 
 ## Декомпозиция процесса "Мониторинг состояния передаваемых сообщений"
-![](https://github.com/waditi/waditi.github.io/blob/master/lab4/png/05_A3.png?raw=true)
+![](https://github.com/waditi/waditi1.github.io/blob/master/lab4/png/05_A3.png?raw=true)
 
 ## Декомпозиция процесса "Обработка исключительных ситуаций"
-![](https://github.com/waditi/waditi.github.io/blob/master/lab4/png/09_A4.png?raw=true)
+![](https://github.com/waditi/waditi1.github.io/blob/master/lab4/png/09_A4.png?raw=true)
 
 # Лабораторная работа №4
 Определение основных средств автоматизации
@@ -67,13 +67,13 @@
 Разработка диаграмм в RAMUS
 
 ## DFD-декомпозиция процесса "Планироващик"
-![](https://github.com/waditi/waditi.github.io/blob/master/lab4/png/06_A31.png?raw=true)
+![](https://github.com/waditi/waditi1.github.io/blob/master/lab4/png/06_A31.png?raw=true)
 
 ## DFD-декомпозиция процесса "Сохранение логирующей информации"
-![](https://github.com/waditi/waditi.github.io/blob/master/lab4/png/07_A32.png?raw=true)
+![](https://github.com/waditi/waditi1.github.io/blob/master/lab4/png/07_A32.png?raw=true)
 
 ## DFD-декомпозиция процесса "Анализ выполнения задачи"
-![](https://github.com/waditi/waditi.github.io/blob/master/lab4/png/08_A33.png?raw=true)
+![](https://github.com/waditi/waditi1.github.io/blob/master/lab4/png/08_A33.png?raw=true)
 
 # Лабораторная 6
 
