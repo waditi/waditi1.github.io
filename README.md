@@ -5,7 +5,7 @@
 Создание IDEF0-диаграммы "Создание скульптуры" в RAMUS (программное средство разработки структурно-функциональных моделей)
 * IDEF0-диаграмма в развернутом виде:
 
-![none](https://waditi1.github.io/index_files/model.png)
+![none](https://waditi.github.io/index_files/model.png)
 
 
 
